@@ -1,0 +1,95 @@
+h1 {
+  font-weight: 700;
+  font-size: 55px;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 45px;
+}
+
+.unite {
+  font-weight: 700;
+  font-size: 45px;
+}
+
+.btn {
+  color: white;
+  background-color: rgb(55, 55, 172);
+}
+
+.btn:hover { 
+  color: rgb(62, 62, 182);
+  background-color: white;
+}
+
+.btnnav:hover {
+  background-color: rgb(232, 232, 232);
+}
+
+.resaltado {
+  background-color: rgb(55, 55, 172);
+}
+
+.bi {
+  background-color: rgb(70, 70, 217);
+}
+
+body {
+  overflow-x: hidden;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.footerfinal {
+  background-color: rgb(70, 70, 217);
+  color: rgb(0, 0, 88);;
+} 
+
+.actividades{
+  background: linear-gradient(rgba(0, 0, 0, 0.745), rgba(1, 1, 1, 0.745)),
+    url(../imagenes/gifcorre.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.zoom {
+  transition: transform .2s;
+}
+
+.zoom:hover {
+  transform: scale(1.04);
+}
+
+.borde {
+  border-top-left-radius: 10%;
+  border-bottom-left-radius: 10%;
+}
+
+.cardform {
+  border-top-right-radius: 5%;
+  border-bottom-right-radius: 5%;
+}
+
+footer {
+  background-color: rgb(55, 55, 172);
+}
+
+a:link, a:visited {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+i:hover { 
+  background-color: rgb(80, 80, 245);
+}
+
+.iconos {
+  position: relative;
+  right: 18px;
+}
+
+
+
